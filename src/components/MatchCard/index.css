@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.background {
+  background-color: #1e293b;
+  color: #ffffff;
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  font-family: 'Bree-Serif';
+  border-radius: 20px;
+}
+.logo-2 {
+  height: 100px;
+  width: 100px;
+}
+.red {
+  color: #e31a1a;
+  font-weight: bold;
+}
+.green {
+  color: #18ed66;
+  font-weight: bold;
+}

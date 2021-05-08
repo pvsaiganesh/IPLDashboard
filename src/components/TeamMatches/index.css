@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.recent-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.cen {
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
